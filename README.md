@@ -1,0 +1,2 @@
+# tri
+CLI tree animation
